@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hello 👋, I'm Rohana Mahimkar
+# Hey 🙋🏼‍♀️, I'm Rohana Mahimkar
 
 ### Software Developer | Full Stack Engineer | AI/ML Enthusiast
 
