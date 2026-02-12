@@ -1,9 +1,8 @@
-
 <div align="center">
 
-# Hi 👋, I'm Rohana Mahimkar
+# Hello 👋, I'm Rohana Mahimkar
 
-### A passionate Developer from Mumbai, India
+### Software Developer | Full Stack Engineer | AI/ML Enthusiast
 
 **Full Stack Development** | **Data Engineering** | **AI/ML**
 
@@ -13,11 +12,11 @@
 
 ## 🎀 About Me
 
-- 🚀 **Currently working on:** Data Engineering projects, Full Stack applications, and exploring Generative AI
-- 📚 **Learning:** Data Structures & Algorithms, Machine Learning, System Design, and Cloud Architecture
-- 💡 **Interests:** Competitive Programming, Problem Solving, AI/ML, and building scalable systems
-- 📧 **Reach me:** [Email](mailto:your.email@example.com) | [LinkedIn](https://www.linkedin.com/in/rohana-mahimkar-96341a283/)
-- 🎓 **Education:** B.Tech Information Technology, DJSCE (2023-2027)
+- 🚀 **Currently Working On:** Data Engineering pipelines, Full Stack web applications, and Generative AI solutions
+- 📚 **Currently Learning:** Advanced Data Structures & Algorithms, Machine Learning frameworks, System Design patterns, and Cloud Architecture
+- 💡 **Core Interests:** Competitive Programming, Algorithm Optimization, AI/ML research, and scalable system architecture
+- 📧 **Connect With Me:** [Email](mailto:your.email@example.com) | [LinkedIn](https://www.linkedin.com/in/rohana-mahimkar-96341a283/)
+- 🎓 **Education:** B.Tech in Information Technology, DJSCE (2023-2027)
 - 🌐 **Portfolio:** [portfolio-vs-code-delta.vercel.app](https://portfolio-vs-code-delta.vercel.app/)
 - 📱 **GitHub:** [github.com/rohana-2005](https://github.com/rohana-2005)
 
@@ -40,13 +39,13 @@
 
 ## 🔥 Highlights
 
-- 🎓 **B.Tech Information Technology** at Dwarkadas J. Sanghvi College of Engineering (2023-2027)
-- 💻 **2+ Years** of continuous learning and building projects
-- 🛠️ **20+ Technologies** mastered across Full Stack, Data Engineering, and AI/ML
-- 🏆 Strong focus on **Data Structures & Algorithms** for building efficient, scalable systems
-- 🌟 Passionate about **Competitive Programming** and **Problem Solving**
-- 🚀 Building projects in **Generative AI, Machine Learning, and Data Science**
-- ☁️ Experience with **Backend Engineering, Cloud Architectures, and Distributed Systems**
+- 🎓 **B.Tech in Information Technology** at Dwarkadas J. Sanghvi College of Engineering (2023-2027)
+- 💻 **2+ Years** of continuous hands-on experience building production-ready projects
+- 🛠️ **20+ Technologies** across Full Stack Development, Data Engineering, and AI/ML
+- 🏆 Specialized in **Data Structures & Algorithms** to architect efficient, scalable systems
+- 🌟 Active in **Competitive Programming** with a focus on algorithmic problem-solving
+- 🚀 Developing innovative solutions in **Generative AI, Machine Learning, and Data Science**
+- ☁️ Experienced in **Backend Engineering, Cloud Architectures, and Distributed Systems**
 
 ---
 
@@ -95,19 +94,6 @@
 ![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=api&logoColor=white)
 ![Scalability](https://img.shields.io/badge/Scalability-FF9800?style=for-the-badge&logo=scale&logoColor=white)
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rohana-2005&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rohana-2005&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rohana-2005&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
 
 ---
 
@@ -124,14 +110,15 @@
 
 ---
 
+
 <div align="center">
 
-### 💼 2+ Years Learning | 20+ Technologies | ∞ Curiosity
+### 💼 2+ Years of Engineering Excellence | 20+ Technologies | ∞ Curiosity Driven
 
-**"Leveraging DSA daily to reason about performance, optimize solutions, and build efficient, scalable systems"**
+**"Building robust, scalable systems through algorithmic thinking and innovative problem-solving"**
 
 ---
 
-⭐️ From [rohana-2005](https://github.com/rohana-2005) | 📫 Let's collaborate and build something amazing!
+⭐️ From [rohana-2005](https://github.com/rohana-2005) | Let's collaborate and innovate together!
 
 </div>
