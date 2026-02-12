@@ -31,8 +31,6 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://portfolio-vs-code-delta.vercel.app/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
-![Profile Views](https://komarev.com/ghpvc/?username=rohana-2005&color=blueviolet&style=flat-square)
-
 </div>
 
 ---
