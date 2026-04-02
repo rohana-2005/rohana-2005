@@ -1,11 +1,14 @@
 <div align="center">
+
+<h2>Hey 🙋🏼‍♀️, I'm Rohana Mahimkar</h2>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&color=F75C7E&center=true&vCenter=true&width=600&lines=Hey+🙋🏼‍♀️+I'm+Rohana+Mahimkar" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=Software+Developer;Full+Stack+Engineer;AI%2FML+Enthusiast" />
 </p>
 
-### Software Developer | Full Stack Engineer | AI/ML Enthusiast
-
-**Full Stack Development** | **Data Engineering** | **AI/ML**
+<p>
+  <b>Full Stack Development</b> • <b>Data Engineering</b> • <b>AI/ML</b>
+</p>
 
 </div>
 
