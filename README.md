@@ -1,14 +1,27 @@
 <div align="center">
 
+<table>
+<tr>
+<td align="left">
+
 <h2>Hey 🙋🏼‍♀️, I'm Rohana Mahimkar</h2>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=Software+Developer;Full+Stack+Engineer;AI%2FML+Enthusiast" />
+<p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=000000&center=false&vCenter=true&width=500&lines=Software+Developer;Full+Stack+Engineer;AI%2FML+Enthusiast" />
 </p>
 
 <p>
   <b>Full Stack Development</b> • <b>Data Engineering</b> • <b>AI/ML</b>
 </p>
+
+</td>
+
+<td align="right">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250"/>
+</td>
+
+</tr>
+</table>
 
 </div>
 
