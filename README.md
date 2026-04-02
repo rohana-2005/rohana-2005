@@ -2,6 +2,7 @@
 
 <table>
 <tr>
+
 <td align="left">
 
 <h2>Hey 🙋🏼‍♀️, I'm Rohana Mahimkar</h2>
@@ -17,14 +18,13 @@
 </td>
 
 <td align="right">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250"/>
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="260"/>
 </td>
 
 </tr>
 </table>
 
 </div>
-
 
 
 ---
