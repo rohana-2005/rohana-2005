@@ -56,13 +56,46 @@
 
 ## 🔥 Highlights
 
-- 🎓 **B.Tech in Information Technology** at Dwarkadas J. Sanghvi College of Engineering (2023-2027)
-- 💻 **2+ Years** of continuous hands-on experience building production-ready projects
-- 🛠️ **20+ Technologies** across Full Stack Development, Data Engineering, and AI/ML
-- 🏆 Specialized in **Data Structures & Algorithms** to architect efficient, scalable systems
-- 🌟 Active in **Competitive Programming** with a focus on algorithmic problem-solving
-- 🚀 Developing innovative solutions in **Generative AI, Machine Learning, and Data Science**
-- ☁️ Experienced in **Backend Engineering, Cloud Architectures, and Distributed Systems**
+- 🎓 **B.Tech in Information Technology** at Dwarkadas J. Sanghvi College of Engineering (2023–2027) | CGPA: 9.73  
+- 💰 **Won $75 at HackNiche 4.0** (sponsored by Featherless.ai) — Hackathon Finalist  
+- 💻 **3+ Years** of continuous hands-on experience building production-ready projects  
+- 🛠️ **20+ Technologies** across Full Stack Development, Data Engineering, and AI/ML  
+- 🏆 Specialized in **Data Structures & Algorithms** to architect efficient, scalable systems  
+- 🌟 Active in **Competitive Programming** with a focus on algorithmic problem-solving  
+- 🚀 Developing innovative solutions in **Generative AI, Machine Learning, and Data Science**  
+- ☁️ Experienced in **Backend Engineering, Cloud Architectures, and Distributed Systems**  
+
+---
+
+## 💼 Experience
+
+### 🤖 Research Lead — DJ Init.AI  
+📅 Oct 2025 – Present  
+- Leading research in **Machine Learning and NLP**  
+- Driving AI-focused initiatives and projects  
+
+---
+
+### 💻 Technical Co-Committee Member — DJ Init.AI  
+📅 Oct 2024 – Oct 2025  
+- Contributed to **Init AI Matrix 2025**  
+- Worked with **React.js, MongoDB**, and modern web technologies  
+
+---
+
+### 📰 Editorial Co-Committee Member — DJCSI (CSI, DJSEC)  
+📅 Aug 2024 – Oct 2025  
+- Contributed to **technical content, newsletters, and publications**  
+- Worked on **TechFlix magazine & community content initiatives**  
+
+---
+
+### 💼 Software Developer Intern — Smowcode  
+📅 Jun 2025 – Aug 2025 | 📍 Mumbai, India  
+- Worked on **software development using C and core programming concepts**  
+- Gained hands-on experience in **real-world development workflows**  
+
+---
 
 ---
 
